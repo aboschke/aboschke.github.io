@@ -1,1 +1,3 @@
-Celebration of Systems Administration
+Celebration of Systems Administration<P>
+
+<a href="aboschke.github.io.pub">SSH publickey aboschke</a>
